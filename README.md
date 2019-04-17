@@ -1,10 +1,10 @@
 # 10-Homework
 This is a pseudo market place where we update a database according to a command line input from an user.
 
-images/database-before.png
+![Database Before](images/database-before.png)
 
-images/node-cli-before.png
+![Node CLI Before](images/node-cli-before.png)
 
-images/database-after.png
+![Database After](images/database-after.png)
 
-images/node-cli-after.png
+![Node CLI After](images/node-cli-after.png)
